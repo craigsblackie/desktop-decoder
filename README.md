@@ -63,5 +63,12 @@ Added functionality can be had with an RFID-Tool installed into the same case to
 
 *   [RFID-Tool](https://labs.ksec.co.uk/product/esp-rfid-tool/)
 
+Usage
+-----
+
+As simple as it gets: turn it on and scan any card that the connected reader is capable of reading. PACS data and bit length will be displayed on the screen. This data can be written to another card using a Proxmark or similar device, decoded to retrieve the facility code and card number.
+
+This serves as a visual aid for effective card cloning and tech downgrade attacks to confirm that PACS data is transmitted identically.
+
 ### Credits
 * Craig S. Blackie and Warren Houghton 
