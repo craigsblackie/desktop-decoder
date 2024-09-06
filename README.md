@@ -27,8 +27,8 @@ The pinout is from the perspective of all components to avoid mistakes and aid i
 
 #### Reader
 
-*   Weigand Data 1 - D3 (Arduino)
-*   Weigand Data 0 - D2 (Arduino)
+*   Wiegand Data 1 - D3 (Arduino)
+*   Wiegand Data 0 - D2 (Arduino)
 *   +12v - +12v (USB PD Board)
 *   Gnd - Gnd (USB PD Board)
 
@@ -36,8 +36,8 @@ The pinout is from the perspective of all components to avoid mistakes and aid i
 
 *   VIN - +12v (USB PD Board)
 *   GND - Gnd (USB PD Board)
-*   D2 - Weigand Data 0 (Reader)
-*   D3 - Weigand Data 1 (Reader)
+*   D2 - Wiegand Data 0 (Reader)
+*   D3 - Wiegand Data 1 (Reader)
 *   A4 - SDA (OLED)
 *   A5 - SCL (OLED)
 *   5v - VCC (OLED)
