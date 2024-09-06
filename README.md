@@ -4,6 +4,8 @@ Overview
 --------
 
 Useful tool to easily display an encoded hex value of the Wiegand data transmitted over the wire from an Access Control reader.
+Aimed as a visual aid for confirming effective credential clones, and technology downgrade attacks.
+Also capable of easily retrieving PACS data from "secure" credentials making use of default encryptions keys, such as HID SEOS.
 
 ![HIDRP40](https://github.com/craigsblackie/desktop-decoder/blob/main/Images/Desktop_Decoder4.jpg?raw=true)
 
@@ -50,12 +52,14 @@ The pinout is from the perspective of all components to avoid mistakes and aid i
 *   VCC - 5v (Arduino)
 *   Gnd - GND (Arduino)
 
-### Optional Case
+### Case
 
-There are 3D modelled cases to use with either an RPK40 or an RP40 reader. Incorporated into the designe is a hole for a USB-C port at the rear. The case is designed to be held together using M3 bolts, these can be easily bought off amazon also.
+If you have access to a 3D printer, this STL prints quickly and doesnt require any supports. It also has slots for each peice of hardware.
+Case secured making use of M3 bolts, which thread into the PLA plastic to avoid the need for brass thread inserts.
+Reader fixed to case using M3 bolts as well.
 
 *   [USB C PD Board](https://www.amazon.co.uk/Youmile-charge-trigger-module-voltage/dp/B09WTQC5Q4)
-*   [Useful bolt pack](https://www.amazon.co.uk/gp/product/B075CKYJF6)
+*   [Bolt pack](https://www.amazon.co.uk/TOOINKCV-Metric-Washers-Assortment-Machine/dp/B0CLRRKVV6)
 
 ### Optional Wifi addon
 
