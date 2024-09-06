@@ -23,7 +23,7 @@ Build Instructions
 
 ### Pinout
 
-I've written the pinout from the perspective of all components to avoid mistakes and aid in troubleshooting.
+The pinout from the perspective of all components to avoid mistakes and aid in troubleshooting.
 
 #### Reader
 
@@ -52,14 +52,14 @@ I've written the pinout from the perspective of all components to avoid mistakes
 
 ### Optional Case
 
-I have 3D modelled a case to use with either an RPK40 or an RP40 reader. With this I have incorporated a hole for a USB C socket jack at the rear. The case is designed to be held together using M3 bolts, these can be easily bought off amazon also.
+There are 3D modelled cases to use with either an RPK40 or an RP40 reader. Incorporated into the designe is a hole for a USB-C port at the rear. The case is designed to be held together using M3 bolts, these can be easily bought off amazon also.
 
 *   [USB C PD Board](https://www.amazon.co.uk/Youmile-charge-trigger-module-voltage/dp/B09WTQC5Q4)
 *   [Useful bolt pack](https://www.amazon.co.uk/gp/product/B075CKYJF6)
 
 ### Optional Wifi addon
 
-So I also installed an RFID-Tool into the same box to add the ability to retrieve the data read via Wi-Fi also. This tool does exactly the same as the arduino code, but has a nice webgui and Wi-Fi onboard also for when you need a reader connected to your laptop as well as a standalone desktop one. This tool just connects in-line with the reader, and doesn't interfere with the arduino.
+Added functionality can be had with an RFID-Tool installed into the same case to add the ability to retrieve the data read via Wi-Fi. This tool connects in-line with the reader, and doesn't interfere with the arduino.
 
 *   [RFID-Tool](https://labs.ksec.co.uk/product/esp-rfid-tool/)
 
