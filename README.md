@@ -3,7 +3,9 @@
 Overview
 --------
 
-Useful tool to easily display an encoded hex value of the Weigand data transmitted over the wire from an Access Control reader
+Useful tool to easily display an encoded hex value of the Weigand data transmitted over the wire from an Access Control reader.
+
+![HIDRP40](https://github.com/craigsblackie/desktop-decoder/blob/main/Images/Desktop_Decoder4.jpg?raw=true)
 
 Kit List
 --------
