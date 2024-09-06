@@ -61,5 +61,5 @@ So I also installed an RFID-Tool into the same box to add the ability to retriev
 
 *   [RFID-Tool](https://labs.ksec.co.uk/product/esp-rfid-tool/)
 
-* ### Credits
+### Credits
 * Craig S. Blackie and Warren Houghton 
