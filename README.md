@@ -15,8 +15,8 @@ Kit List
 *   Arduino Nano
 *   Arduino OLED screen
     *   [OLED Screen](https://www.amazon.co.uk/gp/product/B08NDJ3S3Q/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
-* USB C PD board
-    * Fun fact. HID RPK40s boot on 5v, so no need to buy a big USB C PD compatable plug if you dont want.
+* USB-C PD board
+    * Fun fact. HID RPK40s boot on 5v, so no need to buy a big USB-C PD compatible power supply if you dont want.
 
 Build Instructions
 ------------------
