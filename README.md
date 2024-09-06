@@ -23,7 +23,7 @@ Build Instructions
 
 ### Pinout
 
-The pinout from the perspective of all components to avoid mistakes and aid in troubleshooting.
+The pinout is from the perspective of all components to avoid mistakes and aid in troubleshooting.
 
 #### Reader
 
