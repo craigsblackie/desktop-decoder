@@ -70,5 +70,7 @@ As simple as it gets: turn it on and scan any card that the connected reader is 
 
 This serves as a visual aid for effective card cloning and tech downgrade attacks to confirm that PACS data is transmitted identically.
 
+![HIDRPK40](https://github.com/craigsblackie/desktop-decoder/blob/main/Images/Desktop%20Decoder3.jpg?raw=true)
+
 ### Credits
 * Craig S. Blackie and Warren Houghton 
