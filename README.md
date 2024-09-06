@@ -60,3 +60,6 @@ I have 3D modelled a case to use with either an RPK40 or an RP40 reader. With th
 So I also installed an RFID-Tool into the same box to add the ability to retrieve the data read via Wi-Fi also. This tool does exactly the same as the arduino code, but has a nice webgui and Wi-Fi onboard also for when you need a reader connected to your laptop as well as a standalone desktop one. This tool just connects in-line with the reader, and doesn't interfere with the arduino.
 
 *   [RFID-Tool](https://labs.ksec.co.uk/product/esp-rfid-tool/)
+
+* ### Credits
+* Craig S. Blackie and Warren Houghton 
