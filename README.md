@@ -11,7 +11,7 @@ Kit List
 --------
 
 *   Wiegand Based reader
-    *   HID RPK40 is the best as it has the ability to read both low frequency as well as high frequency cards
+    *   HID RP40 or RPK40 Multiclass SE is the best as it has the ability to read both low frequency as well as high frequency cards
 *   Arduino Nano
 *   Arduino OLED screen
     *   [OLED Screen](https://www.amazon.co.uk/gp/product/B08NDJ3S3Q/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
